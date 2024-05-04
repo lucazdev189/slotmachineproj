@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "slots machine ig/1.0.0": {
+        "runtime": {
+          "slots machine ig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slots machine ig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

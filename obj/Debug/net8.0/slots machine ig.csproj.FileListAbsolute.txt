@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.AssemblyInfo.cs
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\bin\Debug\net8.0\slots machine ig.exe
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\bin\Debug\net8.0\slots machine ig.deps.json
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\bin\Debug\net8.0\slots machine ig.runtimeconfig.json
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\bin\Debug\net8.0\slots machine ig.dll
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\bin\Debug\net8.0\slots machine ig.pdb
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.dll
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\refint\slots machine ig.dll
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.pdb
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\slots machine ig.genruntimeconfig.cache
+C:\Users\Admin\Downloads\coding stuff\slots machine ig\obj\Debug\net8.0\ref\slots machine ig.dll
